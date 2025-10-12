@@ -1,7 +1,7 @@
 # 📸 M O S A Gallery
 
 <div align="center">
-<img src="screenshots/logo.jpg" alt="M O S A Logo" width="150" height="150"/>
+<img src="https://raw.githubusercontent.com/M0SAD67/Gallery/refs/heads/main/screenshots/logo.jpg" alt="M O S A Logo" width="150" height="150"/>
   
 ![M O S A Logo](https://img.shields.io/badge/M_O_S_A-Gallery-00D4AA?style=for-the-badge&logo=flutter&logoColor=white)
 
