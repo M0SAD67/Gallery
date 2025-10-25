@@ -322,6 +322,32 @@ in the Software without restriction...
 
 ---
 
+## 📦 Download
+
+<div align="center">
+
+### 📲 **Get the Latest Release**
+
+You can download the latest version of **M O S A Gallery** below 👇
+
+[![Download APK](https://img.shields.io/badge/⬇️_Download-APK-blue?style=for-the-badge&logo=android)](https://github.com/M0SAD67/mosa-gallery/releases/latest/download/mosa_gallery.apk)
+
+Or visit the **[Releases](https://github.com/M0SAD67/mosa-gallery/releases)** page to see all available versions.
+
+</div>
+
+---
+
+### 🛠️ How to Install (Android)
+
+1. Download the `.apk` file from the link above.  
+2. Open the file on your Android device.  
+3. Allow installation from unknown sources (if prompted).  
+4. Launch **M O S A Gallery** and enjoy!
+
+---
+
+
 ## 👨‍💻 Developer
 
 **Mohamed (MOSAD)**
