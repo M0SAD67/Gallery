@@ -330,7 +330,7 @@ in the Software without restriction...
 
 You can download the latest version of **M O S A Gallery** below 👇
 
-[![Download APK](https://img.shields.io/badge/⬇️_Download-APK-blue?style=for-the-badge&logo=android)](https://github.com/M0SAD67/mosa-gallery/releases/latest/download/mosa_gallery.apk)
+[![Download APK]([https://img.shields.io/badge/⬇️_Download-APK-blue?style=for-the-badge&logo=android)](https://github.com/M0SAD67/mosa-gallery/releases/latest/download/mosa_gallery.apk](https://github.com/M0SAD67/Gallery/releases/download/v1.0.0/app-release.apk))
 
 Or visit the **[Releases](https://github.com/M0SAD67/mosa-gallery/releases)** page to see all available versions.
 
