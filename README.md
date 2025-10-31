@@ -18,6 +18,31 @@
 
 ---
 
+## 📦 Download
+
+<div align="center">
+
+### 📲 **Get the Latest Release**
+
+You can download the latest version of **M O S A Gallery** below 👇
+
+[![Download APK](https://img.shields.io/badge/⬇️_Download-APK-blue?style=for-the-badge&logo=android)](https://github.com/M0SAD67/Gallery/releases/download/v1.0.0/app-release.apk)
+
+
+Or visit the **[Releases](https://github.com/M0SAD67/Gallery/releases)** page to see all available versions.
+</div>
+
+---
+
+### 🛠️ How to Install (Android)
+
+1. Download the `.apk` file from the link above.  
+2. Open the file on your Android device.  
+3. Allow installation from unknown sources (if prompted).  
+4. Launch **M O S A Gallery** and enjoy!
+
+---
+
 ## 🎯 Overview
 
 **M O S A Gallery** is a professional photo and video gallery app built with Flutter, offering a smooth and modern user experience with numerous advanced features.
@@ -319,33 +344,6 @@ Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
 in the Software without restriction...
 ```
-
----
-
-## 📦 Download
-
-<div align="center">
-
-### 📲 **Get the Latest Release**
-
-You can download the latest version of **M O S A Gallery** below 👇
-
-[![Download APK](https://img.shields.io/badge/⬇️_Download-APK-blue?style=for-the-badge&logo=android)](https://github.com/M0SAD67/Gallery/releases/download/v1.0.0/app-release.apk)
-
-
-Or visit the **[Releases](https://github.com/M0SAD67/Gallery/releases)** page to see all available versions.
-</div>
-
----
-
-### 🛠️ How to Install (Android)
-
-1. Download the `.apk` file from the link above.  
-2. Open the file on your Android device.  
-3. Allow installation from unknown sources (if prompted).  
-4. Launch **M O S A Gallery** and enjoy!
-
----
 
 
 ## 👨‍💻 Developer
